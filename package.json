@@ -2,6 +2,7 @@
   "name": "cristin.ai",
   "version": "0.1.0",
   "private": true,
+  "type": "module",
   "scripts": {
     "dev": "next dev",
     "build": "next build",
@@ -16,8 +17,7 @@
     "react": "^18.2.0",
     "react-dom": "^18.2.0",
     "remark-gfm": "3.0.1",
-    "typescript": "^5.2.2",
-    "next-contentlayer": "^0.3.4"
+    "typescript": "^5.2.2"
   },
   "devDependencies": {
     "@opentelemetry/api": "1.6.0",
